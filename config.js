@@ -2,5 +2,5 @@
 const SITE_CONFIG = {
   title: "Penukonda Samachar - ఈ రోజు e-Paper",
   date: "22-09-2026",
-  pdfUrl: "/today-paper.pdf",
+  pdfUrl: "/PENUKONDA SAMACHAR 22-9-2026.pdf",
 };
